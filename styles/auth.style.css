@@ -1,0 +1,49 @@
+.auth-card {
+    max-width: 440px;
+}
+
+.auth-form .form-actions {
+    justify-content: stretch;
+}
+
+.auth-form .btn-submit {
+    width: 100%;
+    padding: 12px 20px;
+    font-size: 16px;
+}
+
+.auth-switch {
+    margin-top: 10px;
+    text-align: center;
+    font-size: 14px;
+}
+
+.auth-switch a {
+    color: black;
+    font-weight: bold;
+    text-decoration: underline;
+    text-decoration-color: greenyellow;
+    text-decoration-thickness: 3px;
+}
+
+.auth-switch a:hover {
+    background-color: greenyellow;
+}
+
+.form-group small {
+    color: #777;
+    font-size: 12px;
+}
+
+.alert {
+    padding: 10px 12px;
+    border-radius: 8px;
+    font-size: 14px;
+    margin-top: 10px;
+}
+
+.alert-error {
+    background-color: #fee2e2;
+    border: 1px solid #fca5a5;
+    color: #991b1b;
+}
